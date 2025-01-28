@@ -1,9 +1,7 @@
-# React + Vite
+<h1>Food Delivery</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React, Vite ve React Router ile oluşturulmuş basit bir yiyecek teslimat web uygulaması. Bu proje, kullanıcıların yiyecekleri görüntülemelerini, kategorilere göre filtrelemelerini ve isimle arama yapmalarını sağlar. Kullanıcılar ürünleri sepete ekleyebilir, çıkarabilir ve seçimlerini kolayca yönetebilirler. Uygulama, React Context ile durum yönetimi kullanılarak yapılmış olup, duyarlı tasarım özelliği ile farklı cihazlarda sorunsuz bir kullanıcı deneyimi sunar.
 
-Currently, two official plugins are available:
+<h2>Ekran Videosu</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# FoodDelivery
+![](food-delivery.gif)
