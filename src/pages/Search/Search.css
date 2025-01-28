@@ -1,0 +1,35 @@
+.search {
+  margin-top: 65px;
+}
+
+.search-input {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #eaeaea;
+  border-radius: 4px;
+  width: 70%;
+}
+.search-input input {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding-left: 10px;
+  width: 100%;
+}
+
+.search-input button {
+  width: max(10vw, 150px);
+  padding: 12px 5px;
+  background-color: black;
+  border: none;
+  color: white;
+  border-radius: 4px;
+}
+
+@media (max-width: 750px) {
+  .search-input {
+    width: 100%;
+  }
+}
